@@ -3,7 +3,7 @@
 This repository is a simple wrapper for Stag to use this library for marker detection in .NET.
 
 > [!NOTE]
-> For the original C++ source code of STag refer to: https://github.com/ManfredStoiber/stag-python.
+> For the original C++ source code of STag refer to: https://github.com/ManfredStoiber/stag.
 
 ## 📖 Usage
 ```c#
