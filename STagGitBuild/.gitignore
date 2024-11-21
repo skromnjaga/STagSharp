@@ -1,0 +1,5 @@
+# Ignore everything in this directory, files in directory added by CMake during building of Stag C++ repo
+*
+# Except this file
+!.gitignore
+!CMakeLists.txt
