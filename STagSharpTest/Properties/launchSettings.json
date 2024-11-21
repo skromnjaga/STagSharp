@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "STagSharpTest": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
