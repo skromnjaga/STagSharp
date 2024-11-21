@@ -1,7 +1,7 @@
 #include "StagSharpExtern.h"
 
-#include "stag.h"
-#pragma comment (lib, "staglibd.lib")
+#include <Stag.h>
+#pragma comment (lib, "libs/staglibd.lib")
 
 #include <combaseapi.h>
 
